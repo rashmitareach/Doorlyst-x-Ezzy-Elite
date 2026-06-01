@@ -1,0 +1,8 @@
+{
+  "name": "Doorlyst x Ezzy Elite",
+  "description": "An ultra-luxury editorial scroll-based strategic pitch portfolio for Ezzy Elite.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
